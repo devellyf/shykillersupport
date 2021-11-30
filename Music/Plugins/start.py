@@ -24,8 +24,8 @@ def start_pannel():
                 InlineKeyboardButton(text="🎚 Commands Menu", url="https://telegra.ph/Music-commands-11-27")
             ],
             [ 
-                InlineKeyboardButton(text="📨Official Channel", url="https://t.me/gana_Updates"),
-                InlineKeyboardButton(text="📨Support Group", url="https://t.me/gana_Support")
+                InlineKeyboardButton(text="📨Official Channel", url="https://t.me/kannu_op"),
+                InlineKeyboardButton(text="📨Support Group", url="https://t.me/XdTeleban")
             ],
     ]
     return "🎛  **This is Music Music Bot**", buttons
@@ -38,9 +38,9 @@ pstart_markup=InlineKeyboardMarkup(
                 [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"https://telegra.ph/Music-commands-11-27")],
                 [
                     InlineKeyboardButton(
-                        "📢 Uᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/gana_Updates"), 
+                        "📢 Uᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/kannu_op"), 
                     InlineKeyboardButton(
-                        "💬 Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/gana_Support")
+                        "💬 Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/XdTeleban")
                 ],
                 [ InlineKeyboardButton("🧑‍💻 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🧑‍💻", url=f"https://te.legra.ph/file/9a1a48def0a9d91e49e28.jpg"),]
 
