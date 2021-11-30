@@ -21,28 +21,28 @@ from Music.MusicUtilities.database.sudo import (get_sudoers, get_sudoers, remove
 def start_pannel():  
     buttons  = [
             [
-                InlineKeyboardButton(text="🎚 Commands Menu", url="https://telegra.ph/Music-commands-11-27")
+                InlineKeyboardButton(text="🎚 Commands Menu", url="http://telegra.ph/𝐔𝐬𝐞𝐫𝐬-𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬-11-30")
             ],
             [ 
                 InlineKeyboardButton(text="📨Official Channel", url="https://t.me/kannu_op"),
                 InlineKeyboardButton(text="📨Support Group", url="https://t.me/XdTeleban")
             ],
     ]
-    return "🎛  **This is Music Music Bot**", buttons
+    return "🎛  **This is kannuc Music Bot**", buttons
 
 pstart_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton("💞 Sᴜᴍᴍᴏɴ Mᴇ 💞", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
                 ], 
-                [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"https://telegra.ph/Music-commands-11-27")],
+                [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"http://telegra.ph/𝐔𝐬𝐞𝐫𝐬-𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬-11-30")],
                 [
                     InlineKeyboardButton(
                         "📢 Uᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/kannu_op"), 
                     InlineKeyboardButton(
                         "💬 Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/XdTeleban")
                 ],
-                [ InlineKeyboardButton("🧑‍💻 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🧑‍💻", url=f"https://te.legra.ph/file/9a1a48def0a9d91e49e28.jpg"),]
+                [ InlineKeyboardButton("🧑‍💻 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🧑‍💻", url=f"https://telegra.ph/file/ba46771a8905abacbe0cf.jpg"),]
 
             ]
         )
