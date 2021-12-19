@@ -1,15 +1,15 @@
-# gana Music Bot
+# kannu music 
 
 For Any Query Join Our Support Group 👥
 
-<a href="https://t.me/ganaUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="t.me/gana_support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Shykillersupport"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="t.me/shykillersupportchat"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 
 Hey Welcome To Here 💫💫 You Can Make Your Own Music Bot For Music 🎶
 
 
-[![MUSICBOT LOGO](https://te.legra.ph/file/1a407249a591aec8cf867.jpg)](https://t.me/gana_Support )
+
 
 🔥 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐈𝐒𝐊 🔥
 
@@ -21,5 +21,5 @@ Hey Welcome To Here 💫💫 You Can Make Your Own Music Bot For Music 🎶
 
 ## CREDIT 💕
 `
-https://t.me/KINGISBACK34
-https://t.me/JorDenXD
+https://t.me/XD_dead_killer
+
