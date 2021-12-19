@@ -1,13 +1,13 @@
 {
-    "name": "gana Music",
-    "logo": "https://te.legra.ph/file/1a407249a591aec8cf867.jpg",
+    "name": "kannu Music",
+    "logo": "https://telegra.ph/file/93f6a4fc2da5a75e8fd4f.jpg",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
         "music", 
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/kishannn07/team-gana",
+    "repository": "https://github.com/devellyf/team-gana",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
