@@ -42,7 +42,7 @@ pstart_markup=InlineKeyboardMarkup(
                     InlineKeyboardButton(
                         " 📡FED 📡", url=f"https://t.me/XdTeleban")
                 ],
-                [ InlineKeyboardButton("🧑‍💻 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🧑‍💻", url=f"https://telegra.ph/file/ba46771a8905abacbe0cf.jpg"),]
+                [ InlineKeyboardButton("🏆Owner🏆", url=f"https://t.me/Shykillersupportchat"),]
 
             ]
         )
@@ -116,7 +116,7 @@ async def play(_, message: Message):
 📎**Channel Link:** [Visit From Here]({x["channel_url"]})
 🔗**Link:** [Link]({x["webpage_url"]})
 
-⚡️ __Searched Powered By gana Music Bot__"""
+⚡️ __Searched Powered By kannu Music Bot__"""
             link = (x["webpage_url"])
             buttons = personal_markup(link)
             userid = message.from_user.id
