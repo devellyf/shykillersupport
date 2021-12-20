@@ -63,7 +63,7 @@ async def welcome(_, message: Message):
                 await remove_active_chat(chat_id)
             if member.id == BOT_ID:
                 out = start_pannel()
-                await message.reply_text(f"Welcome To MentosMusic Music\n\nPromote me as administrator in your group otherwise I will not function properly.", reply_markup=InlineKeyboardMarkup(out[1]))
+                await message.reply_text(f"Welcome To kannu Music Music\n\nPromote me as administrator in your group otherwise I will not function properly.", reply_markup=InlineKeyboardMarkup(out[1]))
                 return
         except:
             return
@@ -85,7 +85,7 @@ async def play(_, message: Message):
         user_name = message.from_user.first_name
         rpk = "["+user_name+"](tg://user?id="+str(user_id)+")" 
         await app.send_message(message.chat.id,
-            text=f"Hello {rpk}!\n\nThis is ganaMusic Bot.\nI play music on Telegram's Voice Chats.\n\nOnly for selected chats.",
+            text=f"Hello {rpk}!\n\nThis is Kannu Music Bot.\nI play music on Telegram's Voice Chats.\n\nOnly for selected chats.",
             parse_mode="markdown",
             reply_markup=pstart_markup,
             reply_to_message_id=message.message_id
