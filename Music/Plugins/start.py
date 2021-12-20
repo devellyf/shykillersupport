@@ -21,14 +21,14 @@ from Music.MusicUtilities.database.sudo import (get_sudoers, get_sudoers, remove
 def start_pannel():  
     buttons  = [
             [
-                InlineKeyboardButton(text="🎚 Commands Menu", url="http://telegra.ph/𝐔𝐬𝐞𝐫𝐬-𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬-11-30")
+                InlineKeyboardButton(text="📒Commands Menu", url="http://telegra.ph/𝐔𝐬𝐞𝐫𝐬-𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬-11-30")
             ],
             [ 
-                InlineKeyboardButton(text="📨Official Channel", url="https://t.me/kannu_op"),
-                InlineKeyboardButton(text="📨Support Group", url="https://t.me/XdTeleban")
+                InlineKeyboardButton(text="📢Official Channel", url="https://t.me/kannu_op"),
+                InlineKeyboardButton(text="📢Support Group", url="https://t.me/XdTeleban")
             ],
     ]
-    return "🎛  **This is kannuc Music Bot**", buttons
+    return " 📩**This is kannuc Music Bot**", buttons
 
 pstart_markup=InlineKeyboardMarkup(
             [
