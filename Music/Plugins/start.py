@@ -33,14 +33,14 @@ def start_pannel():
 pstart_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton("💞 Sᴜᴍᴍᴏɴ Mᴇ 💞", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
+                    InlineKeyboardButton("📩 ADD ME GROUP 📩", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
                 ], 
-                [InlineKeyboardButton("🧰 Cᴏᴍᴍᴀɴᴅꜱ 🧰", url=f"http://telegra.ph/𝐔𝐬𝐞𝐫𝐬-𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬-11-30")],
+                [InlineKeyboardButton("📒HOW TO USE 📒", url=f"http://telegra.ph/𝐔𝐬𝐞𝐫𝐬-𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬-11-30")],
                 [
                     InlineKeyboardButton(
-                        "📢 Uᴘᴅᴀᴛᴇꜱ 📢", url=f"https://t.me/kannu_op"), 
+                        " 📯Uᴘᴅᴀᴛᴇ 📯", url=f"https://t.me/Shykillersupportchat"), 
                     InlineKeyboardButton(
-                        "💬 Sᴜᴘᴘᴏʀᴛ 💬", url=f"https://t.me/XdTeleban")
+                        " 📡FED 📡", url=f"https://t.me/XdTeleban")
                 ],
                 [ InlineKeyboardButton("🧑‍💻 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 🧑‍💻", url=f"https://telegra.ph/file/ba46771a8905abacbe0cf.jpg"),]
 
